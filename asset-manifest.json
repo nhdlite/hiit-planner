@@ -1,14 +1,14 @@
 {
-  "main.css": "/hiit-planner/static/css/main.6dc28f13.chunk.css",
-  "main.js": "/hiit-planner/static/js/main.98ac1d34.chunk.js",
-  "main.js.map": "/hiit-planner/static/js/main.98ac1d34.chunk.js.map",
-  "static/js/1.f03e8ae8.chunk.js": "/hiit-planner/static/js/1.f03e8ae8.chunk.js",
-  "static/js/1.f03e8ae8.chunk.js.map": "/hiit-planner/static/js/1.f03e8ae8.chunk.js.map",
-  "runtime~main.js": "/hiit-planner/static/js/runtime~main.97e69a2a.js",
-  "runtime~main.js.map": "/hiit-planner/static/js/runtime~main.97e69a2a.js.map",
-  "static/media/logo.svg": "/hiit-planner/static/media/logo.5d5d9eef.svg",
-  "static/css/main.6dc28f13.chunk.css.map": "/hiit-planner/static/css/main.6dc28f13.chunk.css.map",
-  "index.html": "/hiit-planner/index.html",
-  "precache-manifest.f225da84179bc33e04246c97a8904121.js": "/hiit-planner/precache-manifest.f225da84179bc33e04246c97a8904121.js",
-  "service-worker.js": "/hiit-planner/service-worker.js"
+  "main.css": "/static/css/main.6dc28f13.chunk.css",
+  "main.js": "/static/js/main.fb358263.chunk.js",
+  "main.js.map": "/static/js/main.fb358263.chunk.js.map",
+  "static/js/1.f03e8ae8.chunk.js": "/static/js/1.f03e8ae8.chunk.js",
+  "static/js/1.f03e8ae8.chunk.js.map": "/static/js/1.f03e8ae8.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
+  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
+  "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg",
+  "static/css/main.6dc28f13.chunk.css.map": "/static/css/main.6dc28f13.chunk.css.map",
+  "index.html": "/index.html",
+  "precache-manifest.19b1f0a3cce223d7dfaa31beefeaeb0d.js": "/precache-manifest.19b1f0a3cce223d7dfaa31beefeaeb0d.js",
+  "service-worker.js": "/service-worker.js"
 }
